@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cert2025/static/css/main.f155d4ce.css",
+    "main.js": "/cert2025/static/js/main.6d331887.js",
+    "static/js/703.d13a32e4.chunk.js": "/cert2025/static/js/703.d13a32e4.chunk.js",
+    "static/js/598.0f40e06f.chunk.js": "/cert2025/static/js/598.0f40e06f.chunk.js",
+    "static/media/ramdan-Abeer_2711.ttf": "/cert2025/static/media/ramdan-Abeer_2711.89a56be0e5ea91f530ac.ttf",
+    "static/media/Mohammad-Bold-normal.ttf": "/cert2025/static/media/Mohammad-Bold-normal.c908a25fe4fdd71325f3.ttf",
+    "static/media/A GOOGLE Regular.ttf": "/cert2025/static/media/A GOOGLE Regular.70b139608d90e34ecbaf.ttf",
+    "static/media/ArbFONTS-GE_SS_Two_Bold_4.otf": "/cert2025/static/media/ArbFONTS-GE_SS_Two_Bold_4.f2c3eadf3fe2e9873fba.otf",
+    "static/media/ArbFONTS-GE_SS_TWO_MEDIUM_5.otf": "/cert2025/static/media/ArbFONTS-GE_SS_TWO_MEDIUM_5.3fb3dc620fa627c8b767.otf",
+    "index.html": "/cert2025/index.html",
+    "main.f155d4ce.css.map": "/cert2025/static/css/main.f155d4ce.css.map",
+    "main.6d331887.js.map": "/cert2025/static/js/main.6d331887.js.map",
+    "703.d13a32e4.chunk.js.map": "/cert2025/static/js/703.d13a32e4.chunk.js.map",
+    "598.0f40e06f.chunk.js.map": "/cert2025/static/js/598.0f40e06f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f155d4ce.css",
+    "static/js/main.6d331887.js"
+  ]
+}
